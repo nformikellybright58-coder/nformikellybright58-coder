@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi, I'M [kelly]! 
 
-<!--
-**nformikellybright58-coder/nformikellybright58-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I am a beginner learning to code and explore new technologies. Currently, I am trying out different programming languages and working on small projects to build my skills.
 
-Here are some ideas to get you started:
+## 🚀 What I'm working on
+- Learning [Python, JavaScript]
+- Building simple apps and scripts
+- Exploring Git and version control fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+## 🌱 Goals
+- Improve my coding skills
+- Collaborate on open-source projects
+- Share and document my learning journey
+
+## 📫 How to reach me
+- Connect with me on [no link yet]
+- Email: [nformikellybright58@gmail.com]
+
+Thanks for visiting my profile! I’m looking forward to learning and growing with the GitHub community.
+
 - ⚡ Fun fact: ...
 -->
